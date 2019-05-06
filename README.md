@@ -1,2 +1,2 @@
 # minimal-writer
-A minimalistic writer for writing undistracted.
+A minimalist writer for writing undistracted.
